@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4EU44PUA0k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\auser\\OneDrive\\桌面\\AEL025300\\AEL025300_範例檔\\書附範例\\範例\\ch09\\MenuStrip\\2026012004xx\\MenuStrip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\auser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\auser\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\auser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\auser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
